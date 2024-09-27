@@ -93,8 +93,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, please reach out to me:
 
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** kaushalnagar997@gmail.com
+- **GitHub:** [Kaushal_Nagar](https://github.com/Kaushal-Nagar)
 ```
 
 ### Key Additions
