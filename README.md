@@ -7,6 +7,11 @@ A customizable, reusable outlined floating text field component for iOS built on
 
 ## Overview
 
+<p align="center">
+  <img src=".Photos/Video.gif" alt="Material Outlined Floating TextField Demo" width="600">
+</p>
+<p align="center"><strong>Video Preview (GIF)</strong></p>
+
 The **MaterialOutlinedFloatingTextField** is a reusable and customizable text field component for iOS applications. Built with Material Design principles, this text field supports floating labels, outlined styles, and various customization options, making it ideal for modern iOS app development.
 
 ## Features
@@ -321,12 +326,18 @@ textField.textColor = .black
 textField.font = UIFont.systemFont(ofSize: 16)
 ```
 
-## Examples
+### Preview
+
+<p align="center">
+  <img src=".Photos/MaterialUITextField.png" alt="Material Outlined Floating TextField Example" width="600">
+</p>
+
+<!-- ## Examples
 
 Here are some examples of the **MaterialOutlinedFloatingTextField** in action:
 
 ![Material UITextField](Screenshots/example1.png)
-![Material UITextField Focused](Screenshots/example2.png)
+![Material UITextField Focused](Screenshots/example2.png) -->
 
 ## Contributing
 
