@@ -8,7 +8,7 @@ A customizable, reusable outlined floating text field component for iOS built on
 ## Overview
 
 <p align="center">
-  <img src=".Photos/Video.gif" alt="Material Outlined Floating TextField Demo" width="300">
+  <img src=".Photos/Video.gif" alt="Material Outlined Floating TextField Demo" width="300" style="border-radius: 15px;">
 </p>
 <p align="center"><strong>Video Preview</strong></p>
 
@@ -294,7 +294,7 @@ You can easily add **MaterialOutlinedFloatingTextField** to your project using I
 1. Drag and drop a `UIView` from the object library onto your view controller.
 2. Set the `UIView`'s class to `CustomOutlinedFloatingTextField` in the **Identity Inspector** (you can refer to the screenshot for help).
 <p align="center">
-  <img src=".Photos/How_to_add_Custom_Class.png" alt="UIView Class Setup" width="600">
+  <img src=".Photos/How_to_add_Custom_Class.png" alt="UIView Class Setup" width="300">
 </p>
 
 **No need to worry—this `UIView` will behave like a fully functional text field as everything is managed internally within the class. You can still use **delegates** and access all the usual `UITextField` properties seamlessly.**
