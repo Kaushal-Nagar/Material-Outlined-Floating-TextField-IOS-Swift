@@ -85,9 +85,9 @@ Here are some examples of the **MaterialOutlinedFloatingTextField** in action:
 
 Contributions are welcome! Please feel free to submit a pull request or create an issue for any suggestions or improvements.
 
-## License
+<!--## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+//This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.-->
 
 ## Contact
 
