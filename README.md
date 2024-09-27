@@ -281,8 +281,6 @@ class CustomOutlinedFloatingTextField: UIView {
     }
 }
 ```
-To enhance the clarity and address the point about using the class within a `UIView`, here's the updated section you can add to the README under **Usage**:
-
 ---
 
 ## Usage
