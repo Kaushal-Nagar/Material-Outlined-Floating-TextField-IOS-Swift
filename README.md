@@ -10,7 +10,7 @@ A customizable, reusable outlined floating text field component for iOS built on
 <p align="center">
   <img src=".Photos/Video.gif" alt="Material Outlined Floating TextField Demo" width="300">
 </p>
-<p align="center"><strong>Video Preview (GIF)</strong></p>
+<p align="center"><strong>Video Preview</strong></p>
 
 The **MaterialOutlinedFloatingTextField** is a reusable and customizable text field component for iOS applications. Built with Material Design principles, this text field supports floating labels, outlined styles, and various customization options, making it ideal for modern iOS app development.
 
