@@ -37,7 +37,7 @@ pod install
 
 ### 3. Open the project
 
-### 4. Add the Swift File to Your Project
+### 4. Add New Swift File to Your Project
 
 ### 5. Copy the below class code from this README and paste it into the newly created Swift file.
 
