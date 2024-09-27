@@ -21,7 +21,7 @@ The **MaterialOutlinedFloatingTextField** is a reusable and customizable text fi
 
 ### 1. Add the Pod
 
-To use **MaterialOutlinedFloatingTextField**, you need to include the `MaterialComponents` pod in your project. Open your `Podfile` and add the following line:
+For our custom class code to work, you need to include the `MaterialComponents` pod in your project. Open your `Podfile` and add the following line:
 
 ```ruby
 pod 'MaterialComponents'
