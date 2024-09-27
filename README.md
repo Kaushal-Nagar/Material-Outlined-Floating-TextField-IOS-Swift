@@ -1,4 +1,4 @@
-# MaterialOutlinedFloatingTextField
+# Material UI Outlined Floating TextField For IOS Swift Project
 
 ![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
