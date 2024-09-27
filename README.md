@@ -8,7 +8,7 @@ A customizable, reusable outlined floating text field component for iOS built on
 ## Overview
 
 <p align="center">
-  <img src=".Photos/Video.gif" alt="Material Outlined Floating TextField Demo" width="300" style="border-radius: 15px;">
+  <img src=".Photos/Video.gif" alt="Material Outlined Floating TextField Demo" width="300" style="border-radius: 500px;">
 </p>
 <p align="center"><strong>Video Preview</strong></p>
 
