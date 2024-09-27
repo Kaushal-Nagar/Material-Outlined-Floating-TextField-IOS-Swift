@@ -294,7 +294,7 @@ You can easily add **MaterialOutlinedFloatingTextField** to your project using I
 
 ![UIView Class Setup](.Photos/How_to_add_Custom_Class.png)
 
-No need to worry—this `UIView` will behave like a fully functional text field as everything is managed internally within the class. You can still use **delegates** and access all the usual `UITextField` properties seamlessly.
+**No need to worry—this `UIView` will behave like a fully functional text field as everything is managed internally within the class. You can still use **delegates** and access all the usual `UITextField` properties seamlessly.**
 
 ### 2. Programmatically Create an Instance
 
