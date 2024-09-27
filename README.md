@@ -39,11 +39,9 @@ Run the following command in your terminal:
 pod install
 ```
 
-### 3. Open the project
+### 5. Add New Swift File to Your Project
 
-### 4. Add New Swift File to Your Project
-
-### 5. Copy the below class code from this README and paste it into the newly created Swift file.
+### 6. Copy the below class code from this README and paste it into the newly created Swift file.
 
 ## Class Code
 
