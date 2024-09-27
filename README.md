@@ -28,7 +28,6 @@ pod 'MaterialComponents'
 ```
 
 ### 2. Install the Pods
-
 Run the following command in your terminal:
 
 ```bash
@@ -342,3 +341,4 @@ If you have any questions or feedback, please reach out to me:
 
 - **Email:** kaushalnagar997@gmail.com
 - **GitHub:** [Kaushal_Nagar](https://github.com/Kaushal-Nagar)
+---
